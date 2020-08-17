@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Playlist from './pages/Playlist'
+import SearchPlaylist from './components/SearchPlaylist';
+import TuPlaylist from './components/TuPlaylist';
+
 
 ReactDOM.render(
   <Playlist />,
